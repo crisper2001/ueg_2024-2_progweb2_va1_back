@@ -1,0 +1,3 @@
+- Classe abstrata: FootballerBaseModel
+- Anotação: Get
+- Reflexão: GenericMapper
